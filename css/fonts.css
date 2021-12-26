@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'BPG Nino Mtavruli Bold';
+    src: url('../fonts/nino_mtavruli_bold/bpg-nino-mtavruli-bold-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/nino_mtavruli_bold/bpg-nino-mtavruli-bold-webfont.eot') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/nino_mtavruli_bold/bpg-nino-mtavruli-bold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/nino_mtavruli_bold/bpg-nino-mtavruli-bold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/nino_mtavruli_bold/bpg-nino-mtavruli-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/nino_mtavruli_bold/bpg-nino-mtavruli-bold-webfont.svg') format('svg'); /* Legacy iOS */
+}
+.nino-mtavruli-bold{
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+@font-face {
+    font-family: 'BPG Nino Mtavruli Regular';
+    src: url('../fonts/nino_mtavruli_regular/bpg-nino-mtavruli-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-nino-mtavruli-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/nino_mtavruli_regular/bpg-nino-mtavruli-webfont.woff') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/nino_mtavruli_regular/bpg-nino-mtavruli-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/nino_mtavruli_regular/bpg-nino-mtavruli-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/nino_mtavruli_regular/bpg-nino-mtavruli-webfont.svg#bpg_nino_mtavruliregular') format('svg'); /* Legacy iOS */
+
+}
+.nino-mtavruli-regular{
+    font-family: 'BPG Nino Mtavruli Regular';
+}
